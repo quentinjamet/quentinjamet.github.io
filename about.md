@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a research scientist in **Physical Oceanography**. I am working for **[CNRS](http://www.cnrs.fr/)** in the MEOM group at **[LGGE](http://lgge.osug.fr/)** (Grenoble, France).
+I am a research scientist in **Physical Oceanography**. I am working for **[CNRS](http://www.cnrs.fr/)** in the **[MEOM group](http://lgge.osug.fr/meom/)** at **[LGGE](http://lgge.osug.fr/)** (Grenoble, France).
 
 I am interested in **ocean fine scale processes**, namely oceanic processes of scales < 500km. I am studying how they can be observed from **space**, how they affect **large-scale ocean circulation and climate** and how they can be represented in **ocean circulation models**. 
 
