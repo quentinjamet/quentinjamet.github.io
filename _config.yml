@@ -8,7 +8,7 @@ title: Julien Le Sommer
 email: julien.lesommer@lgge.obs.ujf-grenoble.fr
 description: > # this means to ignore newlines until "baseurl:"
   Physical Oceanographer
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: http://lesommer.github.io/
 github_username:  lesommer
 header-img: img/home-bg.jpg
