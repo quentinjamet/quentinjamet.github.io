@@ -3,7 +3,7 @@ layout: post
 title: "We are hiring PhD students"
 date: 2016-03-09
 ---
-I am looking for two motivated and qualified PhD Students to join the **[MEOM group](http://lgge.osug.fr/meom/)** at LGGE. The two PhD projects are related to the future SWOT altimetric mission.
+I am looking for two motivated and qualified PhD Students to join the **[MEOM group](http://lgge.osug.fr/meom/)** at LGGE. The two PhD projects are related to the future **[SWOT altimetric mission](https://swot.jpl.nasa.gov/mission/)**.
 
 ![image]({{site.baseurl}}/img/SWOT_design.png "SWOT design")
 
