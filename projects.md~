@@ -26,4 +26,5 @@ permalink: /projects/
 *   DRAKKAR : Climate variability of subpolar gyres and southern oceans (INSU/LEFE, 2007-2010, PI: A.M. Treguier, with co-PI: J. Le Sommer)
 
 ![image]({{site.baseurl}}/img/PERIANT8.png "Southern Ocean surface currents")
-*The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in Southern Ocean response to atmospheric variability.* 
+
+The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in Southern Ocean response to atmospheric variability. 
