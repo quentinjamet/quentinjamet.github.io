@@ -24,11 +24,11 @@ question at a community level**.
 Great **tools have emerged in the python ecosystem** for tackling this question.
 I am in particular thinking about [xarray](https://github.com/pydata/xarray) and
 [dask](http://dask.pydata.org) python packages.
-
 In a recent [project](http://oocgcm.readthedocs.io/en/latest/index.html), I am
-involved in  trying to leverage the potetial of xarray and dask for the analysis
-of gridded dataset in earth system science. More about our general approach can
-be found [here](http://oocgcm.readthedocs.io/en/latest/out-of-core.html) and
-[here](http://oocgcm.readthedocs.io/en/latest/why-xarray-and-dask.html).
+involved in  trying to leverage the potential of xarray and dask for the analysis
+of gridded dataset in earth system science.
 
+More about our general approach can be found
+[here](http://oocgcm.readthedocs.io/en/latest/out-of-core.html) and
+[here](http://oocgcm.readthedocs.io/en/latest/why-xarray-and-dask.html).
 Contributions/comments/suggestions are welcolme on the project page on [github](https://github.com/lesommer/oocgcm).
