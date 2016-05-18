@@ -4,7 +4,7 @@ title: "Out of core analysis of general circulation models"
 date: 2016-05-18
 ---
 
-Transforming large gridded datasets into scientific results indeed requires
+Transforming large gridded datasets into scientific results requires
 innovative descriptive approaches that merge **statistical descriptions and
 physically-motivated analyses**. This usually involves performing rather “complex”
 analysis tasks on the gridded dataset.
