@@ -7,7 +7,7 @@ date: 2016-05-19
 
 
 Nacho Merino's paper on iceberg melt over the Southern Ocean has just been
-accepted for publication in Ocean Modelling. Here his the
+accepted for publication in Ocean Modelling. Here is the
 [link](http://dx.doi.org/10.1016/j.ocemod.2016.05.001).
 
 
@@ -46,7 +46,7 @@ A great achievement. Congratulations Nacho !
 
 
 ### References
- -  Merino, N. J. Le Sommer, G. Durand, N. Jourdain, G. Madec, P. Matthiot and J. Tournadre. Antarctic icebergs melt over the Southern Ocean : climatology and impact on sea-ice. Accepted for publication in *Ocean Modelling*, in press. [doi](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
+ -  Merino, N. J. Le Sommer, G. Durand, N. Jourdain, G. Madec, P. Matthiot and J. Tournadre. Antarctic icebergs melt over the Southern Ocean: climatology and impact on sea-ice. Accepted for publication in *Ocean Modelling*, in press. [doi](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
 
  - N. Merino's [website](http://neichin.github.io/personalweb/) which includes a
  [page describing the climatology](http://neichin.github.io/personalweb/material/meltwater/).
