@@ -8,7 +8,7 @@ date: 2016-05-19
 
 Nacho Merino's paper on iceberg melt over the Southern Ocean has just been
 accepted for publication in Ocean Modelling. Here his the
-(link)[http://dx.doi.org/10.1016/j.ocemod.2016.05.001]
+[link](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
 
 
 In this paper, Nacho estimates the **Antarctic iceberg freshwater flux with a
@@ -41,6 +41,7 @@ with a climatological iceberg fresh-water flux. His climatology of iceberg
 freshwater flux is included in the paper's supplementary material for use in
 climate models and described further [here](http://neichin.github.io/personalweb/material/meltwater/).
 
+This is Nacho's first paper as first author and a great achievement.
 Congratulations Nacho !
 
 
