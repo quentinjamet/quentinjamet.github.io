@@ -6,8 +6,8 @@ date: 2016-05-18
 
 Transforming large gridded datasets into scientific results requires
 innovative descriptive approaches that merge **statistical descriptions and
-physically-motivated analyses**. This usually involves performing rather “complex”
-analysis tasks on the gridded dataset.
+physically-motivated analyses**. This usually involves performing rather
+“complex” analysis tasks on the gridded dataset.
 
 Diagnostic software used for performing such analysis are facing a challenge
 with the ongoing evolution of geoscientific models and earth observing networks.
@@ -18,17 +18,26 @@ therefore be parallelized** and run out-of-core.
 
 I believe that this question is not a “technical” problem but a real challenge
 for our field of research. We are here facing a “technical” translation of one
-of the **big data challenges** in earth system science. We need to **embrace this
-question at a community level**.
+of the **big data challenges** in earth system science. We need to **embrace
+this question at a community level**.
 
 Great **tools have emerged in the python ecosystem** for tackling this question.
 I am in particular thinking about [xarray](https://github.com/pydata/xarray) and
 [dask](http://dask.pydata.org) python packages.
-In a recent [project](http://oocgcm.readthedocs.io/en/latest/index.html), I am
-involved in  trying to leverage the potential of xarray and dask for the analysis
-of gridded dataset in earth system science.
 
-More about our general approach can be found
+
+![image]({{site.baseurl}}/img/dataset-diagram-logo.png "xarray logo")
+
+
+
+In a recent [project](http://oocgcm.readthedocs.io/en/latest/index.html), I am
+involved in  trying to leverage the potential of
+[xarray](https://github.com/pydata/xarray) and
+[dask](http://dask.pydata.org)
+for the analysis of gridded dataset in earth system science.
+
+More about this project can be found on readthedocs
 [here](http://oocgcm.readthedocs.io/en/latest/out-of-core.html) and
 [here](http://oocgcm.readthedocs.io/en/latest/why-xarray-and-dask.html).
-Contributions/comments/suggestions are welcolme on the project page on [github](https://github.com/lesommer/oocgcm).
+Contributions/comments/suggestions are welcome on the project page on
+[github](https://github.com/lesommer/oocgcm).
