@@ -14,7 +14,7 @@ innovative descriptive approaches that merge **statistical descriptions and
 physically-motivated analyses**. This usually involves performing rather
 “complex” analysis tasks on gridded datasets.
 
-Research softwares used for performing these analyses are facing a challenge
+Research software used for performing these analyses are facing a challenge
 with the ongoing evolution of geo-scientific models and earth observing networks.
 Indeed, with **the most high-end models being runs on several tens of thousand
 cores**, even a two-dimensional slice of model output cannot be loaded in memory
