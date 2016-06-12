@@ -10,7 +10,7 @@ NATL60 is our new North Atlantic configuration of NEMO ocean model that runs at 
 with 300 vertical levels. This model configuration is used for preparing SWOT altimeter mission and for studying what are the 
 mechanisms that energize ocean submesoscales at mid to high latitude. 
 
-![image]({{site.baseurl}}/img/NATL60_zoom.png "NATL60 vorticity")
+![image]({{site.baseurl}}/img/NATL60_zoom.jpg "NATL60 vorticity")
 
 Jean-Marc is working literraly nights and days for this second model simulation. The first simulation was run on Occigen 
 supercomputer at CINES, this second one is run on Curie supercomputer at TGCC. This new model simulation is designed so 
