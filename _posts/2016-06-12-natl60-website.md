@@ -12,7 +12,7 @@ mechanisms that energize ocean submesoscales at mid to high latitude.
 
 ![image]({{site.baseurl}}/img/NATL60_zoom.jpg "NATL60 vorticity")
 
-Jean-Marc is working literraly nights and days for this second model simulation. The first simulation was run on Occigen 
+Jean-Marc is working literally nights and days for this second model simulation. The first simulation was run on Occigen 
 supercomputer at CINES, this second one is run on Curie supercomputer at TGCC. This new model simulation is designed so 
 that we can perform a rigorous evaluation of resolved ocean fine scales as compared to OSMOSIS measurment array. 
 
