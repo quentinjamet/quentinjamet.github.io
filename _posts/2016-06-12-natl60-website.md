@@ -18,7 +18,7 @@ that we can perform a rigorous evaluation of resolved ocean fine scales as compa
 
 Meanwhile Aurélie has started disseminating output of the first simulation to collaborators in the SWOT Science Team.
 Several groups (in particular at LOCEAN and LPOS) are now actively working with NATL60 model output. We are more than 
-happy to share this unprecedented model experiment with interested researchers in the fiel. For more information, see
+happy to share this unprecedented model experiment with interested researchers in the field. For more information, see
 [NATL60 website](http://meom-group.github.io/swot-natl60/). 
 
 
