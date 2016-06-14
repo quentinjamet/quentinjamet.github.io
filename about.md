@@ -14,4 +14,7 @@ Because I believe **scientific softwares** play an essential role in transformin
 
 I am excited about the transition towards more **scientific reproducibility** in all the fields of modern science. 
 I think **Python** and the **Scipy ecosystem** (Jupyter notebooks, numpy, scipy...) together with version control and **[sofware hosting facilities](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)** provides a great 
-fundation for this **[transition](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)**. 
+fundation for this **[transition](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)**.
+
+I agree with the reproducibility PI manifesto by [Lorena Barba](http://lorenabarba.com/gallery/reproducibility-pi-manifesto/).  
+I endorse the [science code manifesto](http://sciencecodemanifesto.org/). I am a member of [NumFOCUS](http://www.numfocus.org/) (open code =  better science).
