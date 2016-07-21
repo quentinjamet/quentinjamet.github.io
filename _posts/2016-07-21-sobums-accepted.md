@@ -21,9 +21,9 @@ The Southern Ocean (oceans south of 30°S) plays a key role in global biogeochem
 Over the next 4 years, the project will fund : 
 
  - a research engineeer at LOCEAN (Paris) for 18 months.
- - a research engineer at LSCE (Sac) for 36 months.
- - a postdoc at LGGE for 24 months.
- - a postdoc at LOCEAN for 24 months
+ - a research engineer at LSCE (Saclay) for 36 months.
+ - a postdoc at LGGE (Grenoble) for 24 months.
+ - a postdoc at LOCEAN (Paris) for 24 months
 
 Do not hesitate to contact me for more information about these future positions. 
 
