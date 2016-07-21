@@ -9,6 +9,7 @@ permalink: /projects/
 
 
 ## On-going projects
+- "SOBUMS : Southern Ocean Biogeochemistry Under Multiple Stressors." (ANR, 2017-2010, PI:J. Le Sommer).
 - "OSTOMA-SWOT : Préparer l’Observation Spatiale de la TurbulenceOcéanique par la Mission Altimétrique SWOT" (AGIR/UGA, 2016-2019, PI:J. Le Sommer).
 - "Ocean modelling and data-assimilation for SWOT mission : preparing the inversion of SWOT Ocean Data" (CNES/NASA, 2016-2019; PI: J. Le Sommer and E. Cosme)
 - "ENGLOBE : An Eddying Numerical Global Green Ocean" (LEFE/INSU, 2014-2016, PI: J. Le Sommer)
