@@ -11,7 +11,7 @@ layout: default
 [![image]({{site.baseurl}}/img/JLS_1.png)](https://www.youtube.com/watch?v=8vC7hbxZidY)
 
 
-I am research scientist in **physical oceanography**, interested in **cross-scale interactions** in the ocean and the climate system. 
+I am research scientist in **physical oceanography**, interested in **cross-scale interactions** in the ocean and the climate system. My work usualy involves designing and analysing realistic ocean model simulations covering a range of different scales and physical processes. 
  
 ## Research identifiers
 
