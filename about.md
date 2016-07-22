@@ -9,8 +9,8 @@ I am a research scientist in **Physical Oceanography**. I am working for **[CNRS
 
 I am interested in **ocean fine scale processes**, namely oceanic processes of scales < 200km. I am curious about how they can be observed from **space**, how they affect **large-scale ocean circulation and climate** and how they can be represented in **ocean circulation models**. My research is mostly focused on **ocean fine scale processes** at mid and high latitudes and their impact on climate, with a particular focus on the **Southern Ocean**. 
 
-My work involves designing and analysing **realistic ocean model simulations** covering a range of different scales. To this purpose, I use a range of scientific softwares (mostly **[NEMO](http://www.nemo-ocean.eu/)** ocean model and **[post-processing libraries](https://github.com/lesommer/oocgcm)** in python). 
-Because I believe **scientific softwares** play an essential role in transforming raw data and ideas into scientific results, I try to contribute to the **sustainable development** of scientific softwares.
+My work involves designing and analysing **realistic ocean model simulations** covering a range of different scales. To this purpose, I use a range of scientific software (mostly **[NEMO](http://www.nemo-ocean.eu/)** ocean model and **[post-processing libraries](https://github.com/lesommer/oocgcm)** in python). 
+Because I believe **scientific software** play an essential role in transforming raw data and ideas into scientific results, I try to contribute to the **sustainable development** of scientific software.
 
 I am excited about the transition towards more **scientific reproducibility** in all the fields of modern science. 
 I think **Python** and the **Scipy ecosystem** (Jupyter notebooks, numpy, scipy...) together with version control and **[sofware hosting facilities](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)** provides a great 
