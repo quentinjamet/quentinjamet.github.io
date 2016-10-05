@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 ## How to reach me ?
- - **email** (preferred) : <mailto:julien.lesommer@lgge.obs.ujf-grenoble.fr>
+ - **email** (preferred) : <mailto:julien.lesommer@univ-grenoble-alpes.fr>
  - **telephone** : +33  4 76 82 50 65
  - **fax:**  +33  4 76 82 50 71
  - **skype** : id : lesommer
