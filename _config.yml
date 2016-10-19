@@ -5,7 +5,7 @@
 
 # Site settings
 title: Julien Le Sommer
-email: julien.lesommer@lgge.obs.ujf-grenoble.fr
+email: julien.lesommer@univ-grenoble-alpes.fr
 description: > # this means to ignore newlines until "baseurl:"
   Physical Oceanographer
 baseurl: "" # the subpath of your site, e.g. /blog
