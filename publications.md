@@ -15,11 +15,11 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
  1. Calone C., C. Bricaud, G. Madec, C. Ethe and J. Le Sommer et al.. Super-parameterization of ocean dynamics for tracer transport models. In preparation for Ocean Modelling.
  1. Le Sommer et al. Sources and variability of submesoscale activity in the North Atlantic Ocean. In preparation for *Ocean dynamics*.
  1. Ducousso et al. Impact of the symmetric instability of the computational kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. In preparation for *Ocean Modelling*.
- 1. Jourdain N., P. Mathiot, N. Merino, G. Durand, J. Le Sommer, P. Spence and G. Madec. Ocean circulation and sea-ice thining induced by melting ice-shelves in the Amundsen Sea. In preparation for *Ocean Modelling*. 
 
 ## Submitted papers and papers in revision
 
-1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, in revision.
+1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec. Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. Submitted to JGR-Oceans.
+1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
 
 
 ## Peer-reviewed publications
