@@ -24,7 +24,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
 ## Peer-reviewed publications
 
-1. Ruggiero G.A, E. Cosme, J.M. Brankart, **J. Le Sommer** and C. Ubelmann. An efficient way to account for observation error correlations in the assimilation of data from the future SWOT high resolution altimeter mission. *Journal of Atmos. and Ocean. Technology*, early online releases [doi](http://dx.doi.org/10.1175/JTECH-D-16-0048.1)
+1. Ruggiero G.A, E. Cosme, J.M. Brankart, **J. Le Sommer** and C. Ubelmann. An efficient way to account for observation error correlations in the assimilation of data from the future SWOT high resolution altimeter mission. *Journal of Atmos. and Ocean. Tech.*, early online releases. [doi](http://dx.doi.org/10.1175/JTECH-D-16-0048.1)
 1.  Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, G. Madec, P. Matthiot and J. Tournadre. Antarctic icebergs melt over the Southern Ocean : climatology and impact on sea-ice. *Ocean Modelling*, 104, 99-110. [doi](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
 1.  Delavergne C., G. Madec, **J. Le Sommer**, A.G. Nurser, A.C Naveira-Garabato (2016). On the consumption of Antarctic Bottom Water in the abyssal ocean.  *Journal of Physical Oceanography*, 46, 635-661. [doi](http://dx.doi.org/10.1175/JPO-D-14-0201.1).
 1.  Delavergne C., G. Madec, **J. Le Sommer**, A.G. Nurser, A.C Naveira-Garabato (2016). The impact of variable mixing efficiency on the abbyssal overturning circulation.  *Journal of Physical Oceanography*, 46, 663-681. [doi](http://dx.doi.org/10.1175/JPO-D-14-0259.1).
