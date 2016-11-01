@@ -18,7 +18,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
 ## Submitted papers and papers in revision
 
-1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec. Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. Submitted to Journ. Geophys. Research - Oceans.
+1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec. Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. Submitted to *Journ. Geophysal Research - Oceans*.
 1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
 
 
