@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<!---
-## Research scientist in physical oceanography
--->
-
 ## Julien Le Sommer, physical oceanographer
 
 [![image]({{site.baseurl}}/img/JLS_1.png)](https://www.youtube.com/watch?v=8vC7hbxZidY)
@@ -28,12 +24,4 @@ Research appointments will be **considered at any time** for candidates with an 
 {% endfor %}
 
 
-<!---
-## Recent posts
- <ul class="posts">
-   {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-   {% endfor %}
- </ul>
--->
 
