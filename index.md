@@ -2,12 +2,10 @@
 layout: default
 ---
 
-## Julien Le Sommer, physical oceanographer
-
 [![image]({{site.baseurl}}/img/JLS_1.png)](https://www.youtube.com/watch?v=8vC7hbxZidY)
 
 
-I am research scientist in **physical oceanography**, interested in **cross-scale interactions** in the ocean and the climate system. My work usually involves designing and analysing **realistic ocean model simulations** that describe a range of different scales and **physical processes**. 
+I am **physical oceanographer**, interested in **cross-scale interactions** in the ocean and the climate system. My work involves designing and analysing **realistic ocean model simulations** that describe **oceanic physical processes** over a wide range of space and time scales. 
  
 ## Research identifiers
 
