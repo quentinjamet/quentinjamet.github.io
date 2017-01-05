@@ -10,11 +10,8 @@ permalink: /contact/
  - **telephone** : +33  4 76 82 50 65
  - **fax:**  +33  4 76 82 50 71
  - **skype** : id : lesommer
- - **postal adress** (for *regular mail*):
- MEOM/LGGE, BP53, 
- 38041 Grenoble Cedex 9 
- France
- - **physical adress** (for *carrier delivery*) : MEOM/LGGE, 1025 rue de la piscine,  Domaine Universitaire, St Martin d'Hères
+ - **postal adress** (for *regular mail*): Institut des Géosciences de l’Environnement, UGA, CS 40 700, 38058 Grenoble cedex 9, France
+ - **physical adress** (for *carrier delivery*) : IGE/MEOM, 1025 rue de la Piscine, Domaine Universitaire, 38400 St Martin d’Hères, France
 
 
 

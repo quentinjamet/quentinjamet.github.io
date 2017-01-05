@@ -6,8 +6,7 @@ permalink: /about/
 
 ![image]({{site.baseurl}}/img/DSC_4853_nb.jpg "Photo of J. Le Sommer"){:width="200px"}
 
-I am a research scientist in **Physical Oceanography**. I am working for **[CNRS](http://www.cnrs.fr/)** in the **[MEOM group](http://lgge.osug.fr/meom/)** at **[LGGE](http://lgge.osug.fr/)** (Grenoble, France). I am involved in the development of **[NEMO](http://www.nemo-ocean.eu/)** ocean model and in the **[DRAKKAR](http://www.drakkar-ocean.eu/)** consortium. I am a member of **[CLIVAR Ocean Model Development pannel](http://www.clivar.org/clivar-panels/omdp)** and a member of **[SWOT Science Team](https://swot.jpl.nasa.gov/science/sdt/)**. 
-
+I am a research scientist in **Physical Oceanography**. I am working for **[CNRS](http://www.cnrs.fr/)** in the **[MEOM group](http://lgge.osug.fr/meom/)** at **[IGE](http://http://www.ige-grenoble.fr//)** (Grenoble, France). I am involved in the development of **[NEMO](http://www.nemo-ocean.eu/)** ocean model and in the **[DRAKKAR](http://www.drakkar-ocean.eu/)** consortium. I am a member of **[CLIVAR Ocean Model Development pannel](http://www.clivar.org/clivar-panels/omdp)** and a member of **[SWOT Science Team](https://swot.jpl.nasa.gov/science/sdt/)**. 
 
 I am interested in **ocean fine scale processes**, namely oceanic processes of scales < 200km. I am curious about how they can be observed from **space**, how they affect **large-scale ocean circulation and climate** and how they can be represented in **ocean circulation models**. My research is mostly focused on **ocean fine scale processes** at mid and high latitudes and their impact on climate, with a particular focus on the **Southern Ocean**. 
 
