@@ -11,9 +11,9 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
 ## Papers in preparation
 
- 1. Calone C., C. Bricaud, G. Madec, C. Ethe and J. Le Sommer et al.. Super-parameterization of ocean dynamics for tracer transport models. In preparation for Ocean Modelling.
- 1. Le Sommer et al. Sources and variability of submesoscale activity in the North Atlantic Ocean. In preparation for *Ocean dynamics*.
- 1. Ducousso et al. Impact of the symmetric instability of the computational kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. In preparation for *Ocean Modelling*.
+ 1. C. Bricaud, G. Madec, C. Ethe, **J. Le Sommer** et al.. Super-parameterization of ocean dynamics for tracer transport models. In preparation for Ocean Modelling.
+ 1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
+ 1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell. Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. In preparation for *Ocean Modelling*.
 
 ## Submitted papers and papers in revision
 
@@ -24,7 +24,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 ## Peer-reviewed publications
 
 
-1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. Accepted for publication in  *Journ. Geophysal Research - Oceans*. [doi](http://dx.doi.org/10.1002/2016JC012509).
+1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. *Journ. Geophysal Research - Oceans*, 122(3), 2550-2573. [doi](http://dx.doi.org/10.1002/2016JC012509).
 1. Ruggiero G.A, E. Cosme, J.M. Brankart, **J. Le Sommer** and C. Ubelmann (2016). An efficient way to account for observation error correlations in the assimilation of data from the future SWOT high resolution altimeter mission. *Journal of Atmospheric and Oceanic Technology*, 33, 2755–2768. [doi](http://dx.doi.org/10.1175/JTECH-D-16-0048.1)
 1.  Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, G. Madec, P. Matthiot and J. Tournadre (2016). Antarctic icebergs melt over the Southern Ocean : climatology and impact on sea-ice. *Ocean Modelling*, 104, 99-110. [doi](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
 1.  Delavergne C., G. Madec, **J. Le Sommer**, A.G. Nurser, A.C Naveira-Garabato (2016). On the consumption of Antarctic Bottom Water in the abyssal ocean.  *Journal of Physical Oceanography*, 46, 635-661. [doi](http://dx.doi.org/10.1175/JPO-D-14-0201.1).
