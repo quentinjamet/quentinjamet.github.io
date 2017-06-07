@@ -17,7 +17,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
 ## Submitted papers and papers in revision
 
-1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Submitted to *Journal of Geophysical Research*.
+1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Submitted to *Journal of Geophysical Research*, under revision.
 1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
 
 
