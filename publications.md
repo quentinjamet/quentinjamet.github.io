@@ -13,13 +13,12 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
  1. C. Bricaud, G. Madec, C. Ethe, **J. Le Sommer** et al.. Super-parameterization of ocean dynamics for tracer transport models. In preparation for Ocean Modelling.
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell. Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. In preparation for *Ocean Modelling*.
 
 ## Submitted papers and papers in revision
 
+1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell. Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. Submitted to *Ocean Modelling*.
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Submitted to *Journal of Geophysical Research*, under revision.
 1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
-
 
 ## Peer-reviewed publications
 
