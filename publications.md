@@ -10,8 +10,8 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/public.php?service=files&t=b78c2a97ac0b78607a06bbb7ae71696d).
 
 ## Papers in preparation
- 1. Le Sommer J. and E. Chassignet. Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in preparation for *New Frontiers in Operational Oceanography*. 
- 1. Le Sommer J. and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
+ 1. **Le Sommer J.** and E. Chassignet. Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in preparation for *New Frontiers in Operational Oceanography*. 
+ 1. **Le Sommer J.** and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
