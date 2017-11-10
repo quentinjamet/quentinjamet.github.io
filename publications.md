@@ -7,7 +7,7 @@ permalink: /publications/
 For publications metrics, see :
 [google scholar](http://scholar.google.com/citations?user=neHDjMwAAAAJ&hl=en), [researchid](http://www.researcherid.com/rid/B-9869-2013) <span id='badgeCont129717' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont129717&mashlet=badge&showTitle=false&className=a&rid=B-9869-2013&size=small'></script></span>, [scopus](http://www.scopus.com/inward/authorDetails.url?authorID=6507387108&partnerID=MN8TOARS), [orcid](http://orcid.org/0000-0002-6882-2938)  
 
-Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/public.php?service=files&t=b78c2a97ac0b78607a06bbb7ae71696d).
+Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
 ## Papers in preparation
  1. **Le Sommer J.** and E. Chassignet. Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in preparation for *New Frontiers in Operational Oceanography*. 
@@ -17,13 +17,13 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/pub
 
 ## Submitted papers and papers in revision
 
-1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Submitted to *Journal of Geophysical Research*.
+1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Submitted to *Journal of Geophysical Research*, under revision.
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Submitted to *Journal of Geophysical Research*, under revision.
 1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
 
 ## Peer-reviewed publications
 
-1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell. Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. Accepted for publication in *Ocean Modelling*.
+1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell (2017). Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. *Ocean Modelling*, 120, 18-26. [doi](https://doi.org/10.1016/j.ocemod.2017.10.006).
 1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. *Journ. Geophysal Research - Oceans*, 122(3), 2550-2573. [doi](http://dx.doi.org/10.1002/2016JC012509).
 1. Ruggiero G.A, E. Cosme, J.M. Brankart, **J. Le Sommer** and C. Ubelmann (2016). An efficient way to account for observation error correlations in the assimilation of data from the future SWOT high resolution altimeter mission. *Journal of Atmospheric and Oceanic Technology*, 33, 2755–2768. [doi](http://dx.doi.org/10.1175/JTECH-D-16-0048.1)
 1.  Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, G. Madec, P. Matthiot and J. Tournadre (2016). Antarctic icebergs melt over the Southern Ocean : climatology and impact on sea-ice. *Ocean Modelling*, 104, 99-110. [doi](http://dx.doi.org/10.1016/j.ocemod.2016.05.001)
