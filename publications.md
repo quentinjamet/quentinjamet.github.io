@@ -19,11 +19,11 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Submitted papers and papers in revision
 
 1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Submitted to *Journal of Geophysical Research*, under revision.
-1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Submitted to *Journal of Geophysical Research*, under revision.
-1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Submitted to *Ocean Modelling*, under revision.
 
 ## Peer-reviewed publications
 
+1. Merino N., **J. Le Sommer**, G. Durand, N. Jourdain, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. Accepted foir publication in  *Ocean Modelling*.
+1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. Accepted for publication in *Journal of Geophysical Research*
 1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell (2017). Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. *Ocean Modelling*, 120, 18-26. [doi](https://doi.org/10.1016/j.ocemod.2017.10.006).
 1. Jourdain N., P. Mathiot, N. Merino, G. Durand, **J. Le Sommer**, P. Spence, P. Dutrieux, G. Madec (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. *Journ. Geophysal Research - Oceans*, 122(3), 2550-2573. [doi](http://dx.doi.org/10.1002/2016JC012509).
 1. Ruggiero G.A, E. Cosme, J.M. Brankart, **J. Le Sommer** and C. Ubelmann (2016). An efficient way to account for observation error correlations in the assimilation of data from the future SWOT high resolution altimeter mission. *Journal of Atmospheric and Oceanic Technology*, 33, 2755–2768. [doi](http://dx.doi.org/10.1175/JTECH-D-16-0048.1)
