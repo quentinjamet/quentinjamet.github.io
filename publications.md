@@ -14,7 +14,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. **Le Sommer J.** and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Gomez-Navarro et al. Investigating the capacity of SWOT to detect fine scale oceanic structures in the Western Mediterranean. In preparation for *Remote Sensing*
+ 1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer*. SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. In preparation for *Remote Sensing*
  
 ## Submitted papers and papers in revision
 
