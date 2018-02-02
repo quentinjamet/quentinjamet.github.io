@@ -14,14 +14,14 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. **Le Sommer J.** and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer**. SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. In preparation for *Remote Sensing*
  
 ## Submitted papers and papers in revision
 
-1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Submitted to *Journal of Geophysical Research*, under revision.
+ 1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer**. SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. Submitted to *Remote Sensing*.
 
 ## Peer-reviewed publications
 
+1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Accepted for publiction in *Journal of Geophysical Research - Oceans*.
 1. Merino N., N. Jourdain,  **J. Le Sommer**, G. Durand, H. Goose, G. Madec, P. Mathiot (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. *Ocean Modelling*, 121, 76–89 [doi](https://doi.org/10.1016/j.ocemod.2017.11.009).
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand (2017). Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. *Journal of Geophysical Research - Oceans*, 122(12), 10206-10224. [doi](http://dx.doi.org/10.1002/2017JC013059)
 1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell (2017). Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. *Ocean Modelling*, 120, 18-26. [doi](https://doi.org/10.1016/j.ocemod.2017.10.006).
