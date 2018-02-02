@@ -21,7 +21,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 
 ## Peer-reviewed publications
 
-1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer**. Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Accepted for publication in *Journal of Geophysical Research - Oceans*.
+1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer** (2018). Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. Accepted for publication in *Journal of Geophysical Research - Oceans*.
 1. Merino N., N. Jourdain,  **J. Le Sommer**, G. Durand, H. Goose, G. Madec, P. Mathiot (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. *Ocean Modelling*, 121, 76–89 [doi](https://doi.org/10.1016/j.ocemod.2017.11.009).
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand (2017). Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. *Journal of Geophysical Research - Oceans*, 122(12), 10206-10224. [doi](http://dx.doi.org/10.1002/2017JC013059)
 1. Ducousso N., **J. Le Sommer**, J.-M. Molines and M. Bell (2017). Impact of the Symmetric Instability of the Computational Kind on oceanic hindcasts at mesoscale and submesoscale permitting resolutions. *Ocean Modelling*, 120, 18-26. [doi](https://doi.org/10.1016/j.ocemod.2017.10.006).
