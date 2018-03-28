@@ -19,12 +19,12 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Jourdain et al. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. In preparation for *Ocean Modelling*. 
 
 ## Submitted papers and papers in revision
- 1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. submitted to *Nature Energy*.
- 1. Marson J., P. Myers, X. Hu and **J. Le Sommer**. Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. submitted to *Geophysical Research Letters*, under revision. 
- 1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). submitted to *Ocean Modelling*, in revision. 
+ 1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*.
+ 1. Marson J., P. Myers, X. Hu and **J. Le Sommer**. Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. Submitted to *Geophysical Research Letters*, under revision. 
+ 1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). Submitted to *Ocean Modelling*, under revision. 
 
 ## Peer-reviewed publications
-1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer**. SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. Accepted for publication in *Remote Sensing*.
+1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer** (2018). SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. Accepted for publication in *Remote Sensing*.
 1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer** (2018). Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. *Journal of Geophysical Research - Oceans*, accepted online manuscript. [doi](http://dx.doi.org/10.1002/2017JC013400)
 1. Merino N., N. Jourdain,  **J. Le Sommer**, G. Durand, H. Goose, G. Madec, P. Mathiot (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. *Ocean Modelling*, 121, 76–89. [doi](https://doi.org/10.1016/j.ocemod.2017.11.009).
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand (2017). Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. *Journal of Geophysical Research - Oceans*, 122(12), 10206-10224. [doi](http://dx.doi.org/10.1002/2017JC013059)
