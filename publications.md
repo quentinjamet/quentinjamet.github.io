@@ -14,7 +14,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. **Le Sommer J.** and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Amores A. et al. Up to which extent can we characterize ocean eddies using present-day altimetric products?. In preparation for *Journal of Geophysical Research - Ocean*. 
+ 1. Amores A. et al. Up to which extent can we characterize ocean eddies using present-day altimetric products?. In preparation for *Journal of Geophysical Research - Oceans*. 
  
 ## Submitted papers and papers in revision
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. submitted to *Nature Energy*.
