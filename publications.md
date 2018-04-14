@@ -5,10 +5,11 @@ permalink: /publications/
 ---
 
 <a href="https://orcid.org/0000-0002-6882-2938" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6882-2938</a>
+
 For publications metrics, see :
 [google scholar](http://scholar.google.com/citations?user=neHDjMwAAAAJ&hl=en), 
 [researchid](http://www.researcherid.com/rid/B-9869-2013) <span id='badgeCont129717' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont129717&mashlet=badge&showTitle=false&className=a&rid=B-9869-2013&size=small'></script></span>, 
-[scopus](http://www.scopus.com/inward/authorDetails.url?authorID=6507387108&partnerID=MN8TOARS), 
+[scopus](http://www.scopus.com/inward/authorDetails.url?authorID=6507387108&partnerID=MN8TOARS) 
 
 Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
