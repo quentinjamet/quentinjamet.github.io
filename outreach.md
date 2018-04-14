@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach
+title: Teaching and outreach
 permalink: /outreach
 ---
  - **[New frontiers in ocean circulation modelling](https://github.com/lesommer/2017-lectures-godae-ocean-view)**, lecture series for GODAE OceanView International School, Mallorca 2017. video : [part 1](https://www.youtube.com/watch?v=gIhLmBvRxtM), [part 2](https://www.youtube.com/watch?v=bRs4TEymgm0), [part 3](https://www.youtube.com/watch?v=QalA5RkC9P8).
