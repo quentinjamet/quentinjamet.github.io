@@ -10,21 +10,21 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
 ## Papers in preparation
- 1. **Le Sommer J.**, E. Chassignet and A. Wallcraft. Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in preparation for *New Frontiers in Operational Oceanography*. 
+ 1. **Le Sommer J.**, E. Chassignet and A. Wallcraft. Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in preparation for *New Frontiers in Operational Oceanography*.
  1. **Le Sommer J.** and S. Griffies. Science of Ocean Climate Models. In preparation for *Encyclopedia of Ocean Sciences*
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Ajayi A. et al. Spatial and Temporal Variability of Coherent Eddy Structures in the North Atlantic Ocean. In preparation for *Ocean Modelling*. 
- 1. Amores A. et al. Up to which extent can we characterize ocean eddies using present-day altimetric products?. In preparation for *Journal of Geophysical Research - Oceans*. 
- 1. Jourdain et al. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. In preparation for *Ocean Modelling*. 
+ 1. Ajayi A. et al. Spatial and Temporal Variability of Coherent Eddy Structures in the North Atlantic Ocean. In preparation for *Ocean Modelling*.
+ 1. Amores A. et al. Up to which extent can we characterize ocean eddies using present-day altimetric products?. In preparation for *Journal of Geophysical Research - Oceans*.
 
 ## Submitted papers and papers in revision
+ 1. Jourdain et al. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. Submitted to *Ocean Modelling*.
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*.
- 1. Marson J., P. Myers, X. Hu and **J. Le Sommer**. Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. Submitted to *Geophysical Research Letters*, under revision. 
- 1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). Submitted to *Ocean Modelling*, under revision. 
+ 1. Marson J., P. Myers, X. Hu and **J. Le Sommer**. Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. Submitted to *Geophysical Research Letters*, under revision.
+ 1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). Submitted to *Ocean Modelling*, under revision.
 
 ## Peer-reviewed publications
-1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer** (2018). SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. Accepted for publication in *Remote Sensing*.
+1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer** (2018). SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. *Remote Sensing*, 10(4), 599. [doi](https://doi.org/10.3390/rs10040599)
 1. Fresnay S., A. Ponte, S. Le Gentil, **J. Le Sommer** (2018). Reconstruction of the 3-D dynamics from surface variables in a high-resolution simulation of North Atlantic. *Journal of Geophysical Research - Oceans*, accepted online manuscript. [doi](http://dx.doi.org/10.1002/2017JC013400)
 1. Merino N., N. Jourdain,  **J. Le Sommer**, G. Durand, H. Goose, G. Madec, P. Mathiot (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. *Ocean Modelling*, 121, 76–89. [doi](https://doi.org/10.1016/j.ocemod.2017.11.009).
 1. Donat-Magnin M., N. Jourdain, P. Spence, **J. Le Sommer**, H. Gallée, G. Durand (2017). Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. *Journal of Geophysical Research - Oceans*, 122(12), 10206-10224. [doi](http://dx.doi.org/10.1002/2017JC013059)
@@ -71,7 +71,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 1.  **Le Sommer J.**, Barnier B., Brodeau L., Duchez A., Juza M., Madec G., Mathiot P., Molines J.M., Penduff T. and Treguier A.M. (2007). Southern Ocean processes and climate variability in the DRAKKAR hierarchy of ocean/sea-ice models. *Quarterly Mercator Newsletter*, 27. [link](http://www.mercator-ocean.fr/documents/lettre/lettre_27_en.pdf).
 1.  Barnier B., L. Brodeau, **J. Le Sommer**, J-M Molines, T. Penduff, S. Theetten, A-M Treguier, G. Madec, A. Biastoch, C. Böning, J. Dengg, S. Gulev, R. Bourdalle Badie, J. Chanut, G. Garric, S. Alderson, A. Coward, B. de Cuevas, A. New, K. Haines, G. Smith, S. Drijfhout, W. Hazeleger, C. Severijns, P. Myers (2007). Eddy-permitting ocean circulation hindcasts of past decades. *CLIVAR Exchanges Newsletter*, 42, 12(3), 8-10. [link](http://eprints.soton.ac.uk/47576/01/Exch_42_Jul07.pdf).
 1.  Molines, J.-M., A.-M. Treguier, B. Barnier, L. Brodeau, **J. Le Sommer**, G. Madec, T. Penduff, S. Theetten, Y. Drillet, C. Talandier, J. Orr, and Z. Lachkar (2006). Le modèle DRAKKAR de la variabilité océanique globale, 1958-2004, IDRIS Newsletter. [link](http://archimer.ifremer.fr/doc/00027/13871/).
-1. Labreuche P., **J. Le Sommer** and C. Staquet. Energy pathways of internal waves generated by geostrophic motions over small scale topography. unpublished manuscript 
+1. Labreuche P., **J. Le Sommer** and C. Staquet. Energy pathways of internal waves generated by geostrophic motions over small scale topography. unpublished manuscript
 
 ## PhD Thesis dissertation
 
