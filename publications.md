@@ -18,7 +18,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Amores A. et al. Up to which extent can we characterize ocean eddies using present-day altimetric products?. In preparation for *Journal of Geophysical Research - Oceans*.
 
 ## Submitted papers and papers in revision
- 1. Jourdain et al. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. Submitted to *Ocean Modelling*.
+ 1. Jourdain N, J. Chanut, **J. Le Sommer*, J.-M. Molines, P. Mathiot, C. de Lavergne, G. Madec. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. Submitted to *Ocean Modelling*.
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*.
  1. Marson J., P. Myers, X. Hu and **J. Le Sommer**. Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. Submitted to *Geophysical Research Letters*, under revision.
  1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). Submitted to *Ocean Modelling*, under revision.
