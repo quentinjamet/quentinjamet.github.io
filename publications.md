@@ -21,12 +21,11 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 
 ## Submitted papers and papers in revision
  1. P. Rivière, J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. The life of Elephant Seals in a field of sub-mesoscales. Submitted to *Limnology & Oceanography Letters*.
- 1. Amores A., G. Jorda, T. Arsouze and **J. Le Sommer**. Up to which extent can we characterize ocean eddies using present-day gridded altimetric products?. submitted to
- *Journal of Geophysical Research - Oceans*, in revision.
  1. Jourdain N, J. Chanut, **J. Le Sommer**, J.-M. Molines, P. Mathiot, C. de Lavergne, G. Madec. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. Submitted to *Ocean Modelling*, in revision.
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*, in revision.
 
 ## Peer-reviewed publications
+1. Amores A., G. Jorda, T. Arsouze and **J. Le Sommer**. Up to which extent can we characterize ocean eddies using present-day gridded altimetric products?. Accepted for publication in *Journal of Geophysical Research - Oceans*.
 1. Tsujino H. et al. JRA-55 based surface dataset for driving ocean sea-ice models (JRA55-do). *Ocean Modelling*, in press, accepted manuscript; doi:[10.1016/j.ocemod.2018.07.002](https://doi.org/10.1016/j.ocemod.2018.07.002). [[bib]](https://www.doi2bib.org/bib/10.1016/j.ocemod.2018.07.002) [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN)
 1. Marson J., P. Myers, X. Hu and **J. Le Sommer** (2018). Using vertically-integrated ocean fields to characterize Greenland icebergs' distribution and lifetime. *Geophysical Research Letters*, 45(9), 4208-4217; doi:[10.1029/2018GL077676](http://dx.doi.org/10.1029/2018GL077676). [[bib]](https://www.doi2bib.org/bib/10.1029/2018GL077676) [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN)
 1. Gomez-Navarro L., R. Fablet, E. Mason, A. Pascual, B. Mourre, E. Cosme and **J. Le Sommer** (2018). SWOT spatial scales in the Western Mediterranean Sea derived from pseudo-observations and an ad-hoc filtering. *Remote Sensing*, 10(4), 599; doi:[10.3390/rs10040599](https://doi.org/10.3390/rs10040599). [[bib]](https://www.doi2bib.org/bib/10.3390%2Frs10040599) [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
