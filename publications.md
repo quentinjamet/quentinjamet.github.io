@@ -19,6 +19,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Ajayi A. et al. Spatial and Temporal Variability of Coherent Eddy Structures in the North Atlantic Ocean. In preparation for *Ocean Modelling*.
 
 ## Submitted papers and papers in revision
+ 1. C. Buckhingham et al. "Bounding energy dissipation due to submesoscale flows in the open ocean. Submitted to *Nature Geoscience*. 
  1. P. Rivière, J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. The life of Elephant Seals in a field of sub-mesoscales. Submitted to *Limnology & Oceanography Letters*.
  1. Jourdain N, J. Chanut, **J. Le Sommer**, J.-M. Molines, P. Mathiot, C. de Lavergne, G. Madec. Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. Submitted to *Ocean Modelling*, in revision.
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*, in revision.
