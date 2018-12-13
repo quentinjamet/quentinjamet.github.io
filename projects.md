@@ -9,9 +9,9 @@ permalink: /projects/
 
 
 ## On-going projects
+- "IMMERSE : improving ocean models for the Copernicus programme" (H2020 project, 2018-2022, PI: J. Le Sommer)
 - "DATA@UGA : Grenoble Data Institute." (CDP UGA, 2017-2020, PI: M. Blum).
-- "SOBUMS : Southern Ocean Biogeochemistry Under Multiple Stressors." (ANR, 2017-2020, PI:J. Le Sommer).
-- "OSTOMA-SWOT : Préparer l’Observation Spatiale de la TurbulenceOcéanique par la Mission Altimétrique SWOT" (AGIR/UGA, 2016-2019, PI:J. Le Sommer).
+- "OSTOMA-SWOT : Préparer l’Observation Spatiale de la Turbulence Océanique par la Mission Altimétrique SWOT" (AGIR/UGA, 2016-2019, PI:J. Le Sommer).
 - "Ocean modelling and data-assimilation for SWOT mission : preparing the inversion of SWOT Ocean Data" (CNES/NASA, 2016-2019; PI: J. Le Sommer and E. Cosme)
 
 ## Past projects
