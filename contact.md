@@ -21,8 +21,8 @@ The MEOM group is located on the "Domain Universitaire" in Saint Martin d'Hères
 
  - **directions** : [find us on google maps](https://www.google.com/maps/place/E.N.S.H.M.G.,+38610+Gi%C3%A8res,+France/@45.1962376,5.7685248,18z/data=!3m1!4b1!4m7!1m4!3m3!1s0x0:0x0!2zNDXCsDExJzQ1LjYiTiA1wrA0NicxMC4zIkU!3b1!3m1!1s0x478af5a428730377:0x2d8a13adde8d6de)
 
- - **see also** the [instructions on LGGE website](http://lgge.osug.fr/article99.html)
+ - **see also** the [instructions on IGE website](http://www.ige-grenoble.fr/acces-rapides/article/contact-et-localisation)
 
 - **map of the campus** : 
 
-![Image](http://lgge.osug.fr/IMG/png/plan_adresses.png)
+![Image](http://meom-group.github.io/assets/img/contact/plan_adresses.png)
