@@ -16,9 +16,9 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Papers in preparation
  1. C. Bricaud, **J. Le Sommer** et al. Grid degradation algorithm for passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
- 1. Ajayi A. et al. Spatial and Temporal Variability of Coherent Eddy Structures in the North Atlantic Ocean. In preparation for *Ocean Modelling*.
 
 ## Submitted papers and papers in revision
+ 1. Ajayi A. et al. Spatial and Temporal Variability of Coherent Eddy Structures in the North Atlantic Ocean. submitted to *Ocean Modelling*.
  1. C. Buckingham et al. Bounding energy dissipation due to symmetric instability in the open ocean. Submitted to *Nature Communications*. 
  1. R. Lguensat, S. Rjiba, E. Mason, R. Fablet and **J. Le Sommer**. Convolutional Neural Networks for the Segmentation of Oceanic Eddies from Altimetric Maps. Submitted to *Remote Sensing*. 
  1. P. Rivière, J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. The life of Elephant Seals in a field of sub-mesoscales. Submitted to *Limnology & Oceanography Letters*, in revision.
