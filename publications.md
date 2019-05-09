@@ -18,8 +18,8 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
 ## Submitted papers and papers in revision
- 1. Metref, S., Cosme, E., Le Sommer, J., Poel, N., Brankart, J., Verron, J., & Gomez-Navarro, L. Reduction of spatially structured errors in wide-swath altimetric satellite data using data assimilation. Submitted to *Remote Sensing*, preprint available on EarthXiv : (pdf)[https://eartharxiv.org/fcvb8/download] doi:[10.31223/osf.io/fcvb8](https://doi.org/10.31223/osf.io/fcvb8).
- 1. Ajayi A., J. Le Sommer, E. Chassignet, J.-M. Molines, X. Xu, A. Albert, E. Cosme. Spatial and Temporal Variability of the North Atlantic eddy field at scale <100km. Submitted to *Ocean Modelling*.
+ 1. Metref, S., E. Cosme, **J. Le Sommer**, N. Poel, J.-M. Brankart, J. Verron, L. Gomez-Navarro. Reduction of spatially structured errors in wide-swath altimetric satellite data using data assimilation. Submitted to *Remote Sensing*, preprint available on EarthXiv, doi:[10.31223/osf.io/fcvb8](https://doi.org/10.31223/osf.io/fcvb8), [[pdf]](https://eartharxiv.org/fcvb8/download) [[bib]](https://www.doi2bib.org/bib/10.31223/osf.io/fcvb8).
+ 1. Ajayi A., **J. Le Sommer**, E. Chassignet, J.-M. Molines, X. Xu, A. Albert, E. Cosme. Spatial and Temporal Variability of the North Atlantic eddy field at scale <100km. Submitted to *Ocean Modelling*.
  1. C. Buckingham et al. Bounding energy dissipation due to symmetric instability in the open ocean. Submitted to *Nature Communications*. 
  1. P. Rivière, J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. The life of Elephant Seals in a field of sub-mesoscales. Submitted to *Limnology & Oceanography Letters*, in revision.
  1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*, in revision.
