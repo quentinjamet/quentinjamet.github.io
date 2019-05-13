@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Successful completion of eNATL60 simulation programme in reparation for SWOT altimeter mission."
+title: "eNATL60 model simulations in preparation for SWOT altimeter mission."
 date: 2019-05-12
 ---
 
