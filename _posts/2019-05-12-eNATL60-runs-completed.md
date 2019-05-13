@@ -25,7 +25,7 @@ But I guess the real challenge is actually only starting now. We have indeed pro
  - *Good news #2* : the **[PANGEO](https://pangeo.io/) community provides a great software stack** for analysing these data.  
 
 
-Final word, as for the NATL60 data, **eNATL60 model data are opened to anybody willing analyse them**, just contact us through email if you want to access the data. Laurent Brodeau has posted several nice hi-res animations of the model output on [Ocean Next vimeo channel](https://vimeo.com/oceannext) if you want to get a more precise idea of what you could do with this dataset.   
+Final word, as for the NATL60 data, **eNATL60 model datasets is opened to anybody willing to analyse them**, just contact us through email if you want to access the data. Laurent Brodeau has posted several nice hi-res animations of the model output on [Ocean Next vimeo channel](https://vimeo.com/oceannext) if you want to get a more precise idea of what you could do with this dataset.   
 
 [![image]({{site.baseurl}}/img/vimeo-channel-oceannext.png "eNATL60 videos on vimeo")](https://vimeo.com/oceannext)
 
