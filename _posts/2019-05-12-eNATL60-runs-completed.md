@@ -20,7 +20,8 @@ Last week, just a couple of days after the end of the run production, Laurent Br
 
 But I guess the real challenge is actually only starting now. We have indeed produced **1.5Pb (!!) of ocean model data** with our twin runs (with and without tides). Both the size of the dataset and the number of scientific questions we can adress with it are pretty overwhelming.... But there are good news : 
 
- - *Good news #1* :  the french computing infrastructure **[GENCI](http://www.genci.fr) has kindly accepted to store the data** close to one of the largest french supercomputers; 
+ - *Good news #1* :  the french computing infrastructure **[GENCI](http://www.genci.fr) and the [CINES](https://www.cines.fr) national center have kindly accepted to store the data** close to one of the largest french supercomputers; 
+
  - *Good news #2* : the **[PANGEO](https://pangeo.io/) community provides a great software stack** for analysing these data.  
 
 
