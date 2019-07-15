@@ -19,6 +19,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. L. Gomez-Navarro, E. Cosme, **J. Le Sommer**, N. Papadakis, A. Pascual. Development of an image de-noising method in preparation for the Surface Water and Ocean Topography satellite mission. In preparation for *Remote Sensing*. 
 
 ## Submitted papers and papers in revision
+ 1. Q. Jamet et al. On Energy Cascades in General Flows. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. C. Buckingham et al. The contributions of surface and submesoscale processes to turbulence in the open ocean surface boundary layer. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. Ajayi A., **J. Le Sommer**, E. Chassignet, J.-M. Molines, X. Xu, A. Albert, E. Cosme. Spatial and Temporal Variability of the North Atlantic eddy field at scale <100km. Submitted to *Ocean Modelling*.
  1. P. Rivière, J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. Submesoscale fronts modify Elephant Seals foraging behavior. Submitted to *Limnology & Oceanography Letters*, in revision.
