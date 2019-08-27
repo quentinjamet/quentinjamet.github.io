@@ -14,10 +14,11 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
 ## Papers in preparation
- 1. A. Ajayi, **J. Le Sommer** et al. On the modulation of kinetic energy transfer by internal gravity waves. In preparation for *Geophysical Research Letters*. 
- 1. A. Ajayi, **J. Le Sommer**, E. Chassignet, J.M Molines, X. Xu, A. Albert and W.K. Dewar Diagnosing cross-scale kinetic energy exchanges from two submesoscale permitting ocean models. In preparation for *Journal of Geophysical Research - Oceans*.  
+ 1. A. Ajayi, **J. Le Sommer** et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
+ 1. A. Ajayi, **J. Le Sommer**, E. Chassignet, J.M Molines, X. Xu, A. Albert and W.K. Dewar. Diagnosing cross-scale kinetic energy exchanges from two submesoscale permitting ocean models. In preparation for *Journal of Geophysical Research - Oceans*.  
  1. P. Colombo, B. Barnier, T. Penduff, J. Chanut, J.M. Molines, **J. Le Sommer**, P. Verezemskaya, S. Gulev, A.M. Treguier. Representation of the Denmark Strait overflows in a z-coordinate eddying configuration set-up of the NEMO (v3.6) ocean model : resolution and parametetrs impacts. In preparation for *Geophysical Model Development*.
  1. S. Metref, E. Cosme, F. Le Guillou, **J. Le Sommer**, J. M. Brankart and J. Verron. Wide-swath altimetric satellite data assimilation with structured-error detrending. In preparation for *Frontiers*. 
+1. A. Pietri, X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitation of the omega-equation in different oceanic flow regimes. In preparation for *Journal of Physical Oceanography*. 
  1. C. Bricaud, **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithmfor passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*.
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
  1. L. Gomez-Navarro, E. Cosme, **J. Le Sommer**, N. Papadakis, A. Pascual. Development of an image de-noising method in preparation for the Surface Water and Ocean Topography satellite mission. In preparation for *Remote Sensing*. 
