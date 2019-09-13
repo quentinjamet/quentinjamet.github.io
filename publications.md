@@ -15,7 +15,7 @@ permalink: /publications/
  - **Jamet, Q.**, Deremble, B., Wienders, N., & Dewar, W.K. (In Revision). On Wind-driven Energetics, *Journal of Physical Oceanography*.
 
 ## Peer-reviewed publications
- - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Spatio-temporal patterns of Chaos in the Atlantic Overturning Circulation. *Geophysical Research Letters*, 46(13--), 7509-7517, doi:[10.1029/2019GL082552](https://doi.org/10.1029/2019GL082552)
+ - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Spatio-temporal patterns of Chaos in the Atlantic Overturning Circulation. *Geophysical Research Letters*, 46(13), 7509-7517, doi:[10.1029/2019GL082552](https://doi.org/10.1029/2019GL082552)
 
  - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Fast warming of the surface ocean under a climatological scenario. *Geophysical Research Letters*, 46(7), 3871-3879, doi:[10.1029/2019GL082552](https://doi.org/10.1029/2019GL082552)
 
