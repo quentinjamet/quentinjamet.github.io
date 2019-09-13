@@ -4,15 +4,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Julien Le Sommer
-email: julien.lesommer@univ-grenoble-alpes.fr
+title: Quentin Jamet
+email: quentin.jamet@univ-grenoble-alpes.fr
 description: > # this means to ignore newlines until "baseurl:"
   Physical Oceanographer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://lesommer.github.io/
-github_username:  lesommer
-twitter_username: jlesommer
-header-img: img/home-bg.jpg
+url: http://quentinjamet.github.io/
+github_username:  quentinjamet
+header-img: img/qj_bnw.png
 
 # Build settings
 markdown: kramdown
