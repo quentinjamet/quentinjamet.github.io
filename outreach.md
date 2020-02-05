@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and outreach
+title: Outreach
 permalink: /outreach
 ---
 toto
