@@ -8,9 +8,9 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (In Revision). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*
+ - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. ([In Revision](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_JC_Sub.pdf)). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*
 
- - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. ([In Revision](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_JC_Sub.pdf)). On Energy Cascades in General Flows. *Journal of Advances in Modeling Earth Systems*.
+ - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. (In Revision). On Energy Cascades in General Flows. *Journal of Advances in Modeling Earth Systems*.
 
  - **Jamet, Q.**, Deremble, B., Wienders, N., & Dewar, W.K. (In Revision). On Wind-driven Energetics, *Journal of Physical Oceanography*.
 
