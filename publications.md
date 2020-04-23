@@ -8,13 +8,13 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. ([In Revision](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_JC_Sub.pdf)). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*
-
  - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. (In Revision). On Energy Cascades in General Flows. *Journal of Advances in Modeling Earth Systems*.
 
  - **Jamet, Q.**, Deremble, B., Wienders, N., & Dewar, W.K. (In Revision). On Wind-driven Energetics, *Journal of Physical Oceanography*.
 
 ## Peer-reviewed publications
+ - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2020). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*, doi:[doi](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_JC2020.pdf)
+ 
  - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Spatio-temporal patterns of Chaos in the Atlantic Overturning Circulation. *Geophysical Research Letters*, 46(13), 7509-7517, doi:[10.1029/2019GL082552](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019b.pdf) -- [SI](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019b_SI.pdf)
 
  - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Fast warming of the surface ocean under a climatological scenario. *Geophysical Research Letters*, 46(7), 3871-3879, doi:[10.1029/2019GL082552](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019.pdf) -- [SI](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019_SI.pdf)
