@@ -11,6 +11,10 @@ permalink: /publications/
  - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of
 Mixing Efficiency.
 
+ - Uchida, T., **Jamet, Q.**, Dewar, W. K., Balwada, D., Le Sommer, J., Penduff, T., Hogg, A., &
+Dewar, W.K. (In Prep). Is there a free lunch to the mesoscale eddy closure problem ? The
+thickness-weighted average perspective. *Journal of Advances in Modeling Earth Systems*.
+
  - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. (In Revision). On Energy Cascades in General Flows: A Lagrangian Application. *Journal of Advances in Modeling Earth Systems*.
 
  - **Jamet, Q.**, Deremble, B., Wienders, N., Uchida, T., & Dewar, W.K. (In Revision). On Wind-driven Energetics of Subtropical Gyres, *Journal of Physical Oceanography*.
