@@ -8,9 +8,12 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. (In Revision). On Energy Cascades in General Flows. *Journal of Advances in Modeling Earth Systems*.
+ - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of
+Mixing Efficiency.
 
- - **Jamet, Q.**, Deremble, B., Wienders, N., & Dewar, W.K. (In Revision). On Wind-driven Energetics, *Journal of Physical Oceanography*.
+ - **Jamet, Q.**, Ajayi, J., Le Sommer, J., Penduff, T., Hogg, A., & Dewar, W.K. (In Revision). On Energy Cascades in General Flows: A Lagrangian Application. *Journal of Advances in Modeling Earth Systems*.
+
+ - **Jamet, Q.**, Deremble, B., Wienders, N., Uchida, T., & Dewar, W.K. (In Revision). On Wind-driven Energetics of Subtropical Gyres, *Journal of Physical Oceanography*.
 
 ## Peer-reviewed publications
  - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2020). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*, 33(12), 5155–5172, doi:[10.1175/JCLI-D-19-0844.1](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0844.1)
