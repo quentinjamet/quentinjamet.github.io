@@ -29,4 +29,4 @@ thickness-weighted average perspective. *Journal of Advances in Modeling Earth S
  - **Jamet, Q.**, Huck, T., Arzel, O., Campin, J. M., & de Verdière, A. C. (2016). Oceanic control of multidecadal variability in an idealized coupled GCM. *Climate dynamics*, 46(9-10), 3079-3095, doi:[10.1007/s00382-015-2754-3](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_CD2015.pdf)
 
 ## PhD Thesis dissertation
-**Jamet Q.**  (2015). North Atlantic variability in an idealized, coupled model: the Atlantic Multidecadal Oscillation  (in french). PhD, Univ. Brest. Supervised by Thierry Huck, Alain Colin de Verdière and Olivier Arzel.
+**Jamet Q.**  (2015). North Atlantic variability in an idealized, coupled model: the Atlantic Multidecadal Oscillation  (in french). PhD, Univ. Brest. Supervised by Thierry Huck, Alain Colin de Verdière and Olivier Arzel, [PhD Thesis](http://ocean.fsu.edu/~qjamet/share/files/These_JametQ_Final.pdf)
