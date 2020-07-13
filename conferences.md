@@ -57,7 +57,15 @@ permalink: /conferences/
 
 ## 2015
  - [**EGU General Assembly**](https://egu2015.eu/), 12-17 April, Vienna, Austria\\
- Role of the Ocean-Atmosphere interactions for the Atlantic Multidecadal Variability in an idealized coupled model\\
+ Role of the Ocean-Atmosphere interactions for the Atlantic Multidecadal Variability in an idealized coupled model
  *Jamet, Q.*, Huck, T., Colin de Verdière, A., Arzel, O. & Campin, J.-M. -- [Oral](http://ocean.fsu.edu/~qjamet/share/files/QJamet_EGU2015.pdf)
 
 ## 2014
+ - **EDSM Postdoctoral days**, 15-17 Oct., Brest, France\\
+ Le Gulf Stream et la prévision du climat de demain : étude idéalisée de sa variabilité multidécennale *Jamet, Q.*, Huck, T., Colin de Verdière, A., Arzel, O. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/poster_JrnDocEDSM2014.pdf)
+
+ - **ISOBAY 14**, 10-13 June, Bordeaux, France\\
+ Idealized numerical modeling of ocean-atmosphere interactions in the presence of a surface eddy\\
+ Jamet, Q., Le Cann, B. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/poster_Jamet_ISOBAY2014_v3.pdf)
+
+
