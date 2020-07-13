@@ -20,7 +20,7 @@ thickness-weighted average perspective. *Journal of Advances in Modeling Earth S
  - **Jamet, Q.**, Deremble, B., Wienders, N., Uchida, T., & Dewar, W.K. (In Revision). On Wind-driven Energetics of Subtropical Gyres, *Journal of Physical Oceanography*.
 
 ## Peer-reviewed publications
- - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2020). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*, 33(12), 5155–5172, doi:[10.1175/JCLI-D-19-0844.1](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0844.1)
+ - **Jamet, Q.**, Dewar, W. K., Wienders, N., Deremble, B., Close, S. & Penduff, T. (2020). Locally and remotely forced subtropical AMOC variability: A matter of time scales. *Journal of Climate*, 33(12), 5155–5172, doi:[10.1175/JCLI-D-19-0844.1](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0844.1)
  
  - **Jamet, Q.**, Dewar, W. K., Wienders, N., & Deremble, B. (2019). Spatio-temporal patterns of Chaos in the Atlantic Overturning Circulation. *Geophysical Research Letters*, 46(13), 7509-7517, doi:[10.1029/2019GL082552](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019b.pdf) -- [SI](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_GRL2019b_SI.pdf)
 
