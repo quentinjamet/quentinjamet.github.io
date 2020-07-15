@@ -6,7 +6,7 @@ permalink: /conferences/
 
 ## 2020
  - [**EGU General Assembly**](https://www.egu2020.eu/), 4-8 May, virtual meeting\\
- Locally and remotely forced subtropical AMOC variability: A matter of time scales\\
+ Deconstructing the subtropical AMOC variability\\
  *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B., Close, S., & Penduff, T. -- [Slides](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_EGU2020.pdf)
 
  - [**Ocean Science Meeting**](https://www.agu.org/ocean-sciences-meeting/), 16-21 Feb., San Diego, CA, USA\\
