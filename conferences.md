@@ -6,28 +6,36 @@ permalink: /conferences/
 
 ## 2020
  - [**EGU General Assembly**](https://www.egu2020.eu/), 4-8 May, virtual meeting\\
- Deconstructing the subtropical AMOC variability\\
- *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B., Close, S., & Penduff, T. -- [Slides](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_EGU2020.pdf)
+ [1] Deconstructing the subtropical AMOC variability\\
+ *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B., Close, S., & Penduff, T. -- [Slides](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_EGU2020.pdf)\\
+ [2] On wind-driven energetics of subtropical gyres\\
+ Dewar, W. K., *Jamet, Q.*, Deremble, B., Wienders, N. -- [Abstract](https://ui.adsabs.harvard.edu/abs/2020EGUGA..2222418D/abstract)
 
  - [**Ocean Science Meeting**](https://www.agu.org/ocean-sciences-meeting/), 16-21 Feb., San Diego, CA, USA\\
- Locally and remotely forced subtropical AMOC variability: A matter of time scales\\
- *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B., Close, S., & Penduff, T. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_OSM2020.pdf)
+ [1] Locally and remotely forced subtropical AMOC variability: A matter of time scales\\
+ *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B., Close, S., & Penduff, T. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_OSM2020.pdf)\\
+ [2] On Energy Cascades in General Flows\\
+ Dewar, W. K., *Jamet, Q.*, Ajayi, A. O., Hogg, A. M., Penduff, T., Le Sommer, J. -- [Abstract](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/637533)
 
  - [**DRAKKAR 2020 Workshop**](http://pp.ige-grenoble.fr/pageperso/barnierb/WEBDRAKKAR2020/), 3-5 Feb., Grenoble, France\\
  Diagnosing eddy-to-small scale transfers in eNATL60\\
  *Jamet, Q.*, Uchida, T., Dewar, W. K. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/Jamet_Uchida_Dewar_DRAKKAR2020.pdf)
 
 ## 2019
+ - [**AGU Fall Meeting**](https://www.agu.org/Fall-Meeting-2019), 9-13 Dec., San Francisco, CA, USA\\
+ Chaos in the Ocean and Coupled Large Ensemble Simulations\\
+ Wienders, N., *Jamet, Q.*, Dewar, W. K., Deremble, B. -- [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31G1257W/abstract)
+
  - **MOPGA kick off conference**, Oct. 1st, Paris, France (On behalf of William K. Dewar)\\
  CONTaCTS: Consistent OceaN Turbulence for ClimaTe Simulators\\
  Dewar, W. K., Penduff, T., Le Sommer, J., *Jamet, Q.*, Uchida, T. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/Poster_CONTACTS_Paris_sept2019.pdf)
 
 ## 2018
- - [**AGU Fall Meeting**](https://www.searcharcticscience.org/meetings/2018/agu), 10-14 Dec., Washington DC, USA\\
+ - **AGU Fall Meeting**, 10-14 Dec., Washington DC, USA\\
  [1] Is the Atlantic Meridional Overturning Circulation Chaotic?\\
- Dewar, W. K., *Jamet, Q.*, Wienders, N., & Deremble, B. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/amoc_intrins_forced_AGU_A51H-2249.pdf)\\
+ *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/amoc_intrins_forced_AGU_A51H-2249.pdf)\\
  [2] Locally vs remotely forced AMOC variability : A matter of time scales\\
- *Jamet, Q.*, Dewar, W. K., Wienders, N., & Deremble, B. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/amoc_local_remote_AGU_A51H-2250.pdf)
+ Dewar, W. K., *Jamet, Q.*, Wienders, N., & Deremble, B. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/amoc_local_remote_AGU_A51H-2250.pdf)
 
  - [**CLIVAR International AMOC Science Meeting**](https://usclivar.org/meetings/2018-amoc-rapid-meeting), 24-27 July, Coconut Grove, FL, USA\\
  [1] Interannual AMOC Variability in the Eddying Ocean : Time Scales, Patterns and Origin\\
