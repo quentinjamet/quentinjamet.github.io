@@ -8,8 +8,9 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of
-Mixing Efficiency.
+ - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). Et après?.
+
+ - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of Mixing Efficiency.
 
  - Uchida, T., **Jamet, Q.**, Dewar, W. K., Balwada, D., Le Sommer, J., Penduff, T. (In Revision). Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. *Journal of Advances in Modeling Earth Systems*.
 
