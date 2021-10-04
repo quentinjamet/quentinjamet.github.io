@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Non-local eddy-mean kinetic energy transfers in submesocale-permitting ensemble simulations.
+ - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Non-local eddy-mean kinetic energy transfers in submesocale-permitting ensemble simulations..
 
  - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Energetics of the Gulf Stream in presence of submeso-scale dynamics.
 
