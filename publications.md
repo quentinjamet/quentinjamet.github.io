@@ -8,10 +8,15 @@ permalink: /publications/
 
 
 ## On-going papers
+ - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Non-local eddy-mean kinetic energy transfers in submesocale-permitting ensemble simulations.
+
+ - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Energetics of the Gulf Stream in presence of submeso-scale dynamics.
+
  - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of Mixing Efficiency.
 
- - Uchida, T., **Jamet, Q.**, Dewar, W. K., Balwada, D., Le Sommer, J., Penduff, T. (In Revision). Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. *Journal of Advances in Modeling Earth Systems*.
+- Uchida, T., **Jamet, Q.**, Poje, A., Dewar, W. K. (In Revision). An ensemble based eddy and spectral analysis, with application to the Gulf Stream. *Journal of Advances in Modeling Earth Systems*.
 
+ - Uchida, T., **Jamet, Q.**, Dewar, W. K., Balwada, D., Le Sommer, J., Penduff, T. (In Revision). Diagnosing the thickness-weighted averaged eddy-mean flow interaction from an eddying North Atlantic ensemble, Part I: Kinematic framework. *Journal of Advances in Modeling Earth Systems*.
 
 ## Peer-reviewed publications
 
