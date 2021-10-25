@@ -9,3 +9,4 @@ I am a physiscal oceanographer with special interests in **large-scale ocean dyn
 
 ## Current affiliation
  - Postdoctoral researcher position at *Institut des Géosciences de l’Environnement* ([IGE](http://www.ige-grenoble.fr/)) in the [MEOM](http://meom-group.github.io/) group, funded by the [CONTaCTS](https://meom-group.github.io/projects/contacts/) project.
+
