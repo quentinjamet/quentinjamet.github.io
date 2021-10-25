@@ -3,6 +3,15 @@ layout: page
 title: Conferences
 permalink: /conferences/
 ---
+## 2021
+ - [**DRAKKAR 2021 Workshop**](http://pp.ige-grenoble.fr/pageperso/barnierb/WEBDRAKKAR2021/Agenda-2021.html), 18-20 Jan., Virtual Meeting\\
+ Diagnostic package for analyses of kinetic energy budget of the Gulf Stream in presence of submesoscale dynamics\\
+ *Jamet, Q.*, Dewar, W. K., Penduff,  T., Le Sommer, J., Leroux, S., Molines, J.-M., Gula, J. -- [Poster](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_DRAKKAR2021.pdf)
+
+ - [**EGU General Assembly**](https://www.egu21.eu/), 19-39 April, virtual meeting\\
+ [1] Analyzing the Kinetic Energy budget of submesoscale-permitting ensemble simulations\\
+ *Jamet, Q.*, Leroux, S., Dewar, W. K., Penduff,  T., Le Sommer, J., Molines, J.-M., Gula, J. -- [Slides](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_EGU2021)\\
+
 
 ## 2020
  - [**EGU General Assembly**](https://www.egu2020.eu/), 4-8 May, virtual meeting\\
