@@ -14,11 +14,11 @@ permalink: /publications/
 
  - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of Mixing Efficiency.
 
-- Uchida, T., **Jamet, Q.**, Poje, A., Dewar, W. K. (In Revision). An ensemble based eddy and spectral analysis, with application to the Gulf Stream. *Journal of Advances in Modeling Earth Systems*.
-
  - Uchida, T., **Jamet, Q.**, Dewar, W. K., Balwada, D., Le Sommer, J., Penduff, T. (In Revision). Diagnosing the thickness-weighted averaged eddy-mean flow interaction from an eddying North Atlantic ensemble, Part I: Kinematic framework. *Journal of Advances in Modeling Earth Systems*.
 
 ## Peer-reviewed publications
+
+ - Uchida, T., **Jamet, Q.**, Poje, A., Dewar, W. K. (**2021**). An ensemble based eddy and spectral analysis, with application to the Gulf Stream. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2021MS002692](https://agupubs-onlinelibrary-wiley-com.sid2nomade-2.grenet.fr/doi/10.1029/2021MS002692)
 
  - **Jamet, Q.**, Deremble, B., Wienders, N., Uchida, T., & Dewar, W.K. (**2021**). On Wind-driven Energetics of Subtropical Gyres, *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2020MS002329.](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_JAMES2021.pdf)
 
