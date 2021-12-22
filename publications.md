@@ -8,6 +8,9 @@ permalink: /publications/
 
 
 ## On-going papers
+ - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Som-
+mer, J., Penduff, T., & Brasseur, P. (In prep.) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.*
+
  - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations.
 
  - **Jamet, Q.**, Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Energetics of the Gulf Stream in presence of submeso-scale dynamics.
