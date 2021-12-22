@@ -13,7 +13,7 @@ mer, J., Penduff, T., & Brasseur, P. (In prep.) Ensemble quantification of short
 
  - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations.
 
- - **Jamet, Q.**, Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Energetics of the Gulf Stream in presence of submeso-scale dynamics.
+ - **Jamet, Q.**, Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (In Prep) Gulf Stream energetics in presence of submeso-scale dynamics.
 
  - **Jamet, Q.**, Deremble, B., & Dewar, W. K. (In Prep). A Reference State Free Definition of Mixing Efficiency.
 
