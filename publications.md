@@ -11,11 +11,11 @@ permalink: /publications/
  - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Som-
 mer, J., Penduff, T., & Brasseur, P. (Sub.) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.*
 
- - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (Sub.) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. *Journal of Advances in Modeling Earth Systems*
+ - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (Sub.) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. *Journal of Advances in Modeling Earth Systems*.
 
 
 ## Peer-reviewed publications
- - Uchida, T., **Jamet, Q.**, Dewar, W. K., Le Sommer, J., Penduff, T., Balwada, D. (2022). Diagnosing the thickness-weighted averaged eddy-mean flow interaction from an eddying North Atlantic ensemble, Part I: The Eliassen--Palm flux. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2021MS002866](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002866).
+ - Uchida, T., **Jamet, Q.**, Dewar, W. K., Le Sommer, J., Penduff, T., Balwada, D. (**2022**). Diagnosing the thickness-weighted averaged eddy-mean flow interaction from an eddying North Atlantic ensemble, Part I: The Eliassen--Palm flux. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2021MS002866](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002866).
 
  - Uchida, T., **Jamet, Q.**, Poje, A., Dewar, W. K. (**2021**). An ensemble based eddy and spectral analysis, with application to the Gulf Stream. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2021MS002692](https://agupubs-onlinelibrary-wiley-com.sid2nomade-2.grenet.fr/doi/10.1029/2021MS002692)
 
