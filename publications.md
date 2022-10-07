@@ -8,7 +8,9 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (In Prep) Relative wind stress influence on the small-scale and large-scale oceanic circulation in a quasi-geostrophic coupled model.
+ - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (In Prep.) Relative wind stress influence on the small-scale and large-scale oceanic circulation in a quasi-geostrophic coupled model.
+
+ - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (In Prep.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Journal of Advances in Modeling Earth Systems*
 
  - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Som-
 mer, J., Penduff, T., & Brasseur, P. (In Rev) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.*
