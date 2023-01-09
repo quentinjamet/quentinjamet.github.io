@@ -8,21 +8,20 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (In Prep.) Relative wind stress influence on the small-scale and large-scale oceanic circulation in a quasi-geostrophic coupled model.
+ - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (In Prep.) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model.
 
  - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (In Prep.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Journal of Advances in Modeling Earth Systems*
 
- - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Som-
-mer, J., Penduff, T., & Brasseur, P. (In Rev) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.*
-
- - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (Sub.) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
-
- - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (Sub.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Theory. *Journal of Advances in Modeling Earth Systems*
-
  - Dewar, W. K., Deremble, B., **Jamet, Q.** (Sub.) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Physical Oceanography*
+
+ - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (In Rev.) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
+
+ - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (In Rev.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems* 
 
 
 ## Peer-reviewed publications
+ - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Sommer, J., Penduff, T., & Brasseur, P. (In Rev) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.* doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022)
+
  - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (**2022**) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2022MS003057](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003057).
 
  - Uchida, T., **Jamet, Q.**, Dewar, W. K., Le Sommer, J., Penduff, T., Balwada, D. (**2022**). Diagnosing the thickness-weighted averaged eddy-mean flow interaction from an eddying North Atlantic ensemble, Part I: The Eliassen--Palm flux. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2021MS002866](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002866).
