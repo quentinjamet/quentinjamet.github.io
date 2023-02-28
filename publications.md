@@ -14,9 +14,9 @@ permalink: /publications/
 
  - Dewar, W. K., Deremble, B., **Jamet, Q.** (Sub.) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Physical Oceanography*
 
- - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (In Rev.) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
+ - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (Sub.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems* 
 
- - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (In Rev.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems* 
+ - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (In Rev.) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
 
 
 ## Peer-reviewed publications
