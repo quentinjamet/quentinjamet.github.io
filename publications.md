@@ -19,7 +19,7 @@ permalink: /publications/
 ## Peer-reviewed publications
 - Tissot, G., Mémin, E., **Jamet, Q.** (**2023**) Stochastic compressible Navier–Stokes equations under location uncertainty. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
-- **Jamet, Q.**, Mémin, E., Dumas, F., Li, L., Garreau, P. (2023a – En révision) Toward a stochastic parameterization for oceanic deep convection. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
+- **Jamet, Q.**, Mémin, E., Dumas, F., Li, L., Garreau, P. (**2023**) Toward a stochastic parameterization for oceanic deep convection. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
 - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (**2023**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems*, 15(3), e2022MS003399. doi:[10.1029/2022MS003399](https://doi.org/10.1029/2022MS003399) 
 
