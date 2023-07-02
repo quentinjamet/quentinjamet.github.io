@@ -12,15 +12,17 @@ permalink: /publications/
 
  - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (In Prep.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Journal of Advances in Modeling Earth Systems*
 
- - Dewar, W. K., Deremble, B., **Jamet, Q.** (Sub.) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Physical Oceanography*
-
- - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (Sub.) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems* 
+ - Dewar, W. K., Deremble, B., **Jamet, Q.** (Sub.) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Geophysical Research - Oceans*
 
  - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (In Rev.) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
 
 
 ## Peer-reviewed publications
- - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Sommer, J., Penduff, T., & Brasseur, P. (In Rev) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.* doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022)
+- Uchida, T., Balwada, D., **Jamet, Q.**, Dewar, W. K., Deremble, B., Penduff, T., & Le Sommer, J. (**2023**). Cautionary tales from the mesoscale eddy transport tensor. *Ocean Modelling*, 182, 102172. doi:[10.1016/j.ocemod.2023.102172](https://doi-org.sid2nomade-2.grenet.fr/10.1016/j.ocemod.2023.102172)
+
+ - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (**2023**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems* 
+
+ - Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., **Jamet, Q.**, Le Sommer, J., Penduff, T., & Brasseur, P. (**2022**) Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. *Ocean Sci.* doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022)
 
  - **Jamet, Q.**, Leroux, S., Dewar, W. K., Penduff, T., Le Sommer, J., Molines, J.-M., Gula J. (**2022**) Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. *Journal of Advances in Modeling Earth Systems* doi:[10.1029/2022MS003057](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003057).
 
