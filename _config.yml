@@ -5,7 +5,7 @@
 
 # Site settings
 title: Quentin Jamet
-email: quentin.jamet@inria.fr
+email: quentin.jamet@shom.fr
 description: > # this means to ignore newlines until "baseurl:"
   Physical Oceanographer
 baseurl: "" # the subpath of your site, e.g. /blog
