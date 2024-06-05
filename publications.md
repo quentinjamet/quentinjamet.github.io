@@ -8,15 +8,18 @@ permalink: /publications/
 
 
 ## On-going papers
- - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**In Prep.**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model.
-
 - Deremble, B., **Jamet, Q.**, Dewar, W. K. (**Sub.**) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Geophysical Research - Oceans*
 
- - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**In Rev.**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Journal of Advances in Modeling Earth Systems*
 
-- Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**In Rev.**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research - Oceans*
+
 
 ## Peer-reviewed publications
+- **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**2024**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-23-0159.1](https://doi.org/10.1175/JPO-D-23-0159.1)
+
+- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392. doi:[/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
+
+- Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**2024**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research: Oceans*, 129(4), e2023JC020833. doi:[10.1029/2023JC020833]( https://doi.org/10.1029/2023JC020833)
+
 - Tissot, G., Mémin, E., **Jamet, Q.** (**2023**) Stochastic compressible Navier–Stokes equations under location uncertainty. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
 - **Jamet, Q.**, Mémin, E., Dumas, F., Li, L., Garreau, P. (**2023**) Toward a stochastic parameterization for oceanic deep convection. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
