@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 ## On-going papers
-- Deremble, B., **Jamet, Q.**, Dewar, W. K. (**Sub.**) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Geophysical Research - Oceans*
+- Deremble, B., **Jamet, Q.**, Dewar, W. K. (**In Rev.**) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Geophysical Research - Oceans*
 
 
 
