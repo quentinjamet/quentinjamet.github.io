@@ -14,17 +14,17 @@ permalink: /publications/
 
 
 ## Peer-reviewed publications
-- **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**2024**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-23-0159.1](https://doi.org/10.1175/JPO-D-23-0159.1)
+- **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**2024**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model. *Journal of Physical Oceanography* -- [10.1175/JPO-D-23-0159.1](https://doi.org/10.1175/JPO-D-23-0159.1)
 
-- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392. doi:[/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
+- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392 -- [/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
 
-- Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**2024**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research: Oceans*, 129(4), e2023JC020833. doi:[10.1029/2023JC020833]( https://doi.org/10.1029/2023JC020833)
+- Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**2024**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research: Oceans*, 129(4), e2023JC020833 -- [10.1029/2023JC020833]( https://doi.org/10.1029/2023JC020833)
 
 - Tissot, G., Mémin, E., **Jamet, Q.** (**2023**) Stochastic compressible Navier–Stokes equations under location uncertainty. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
 - **Jamet, Q.**, Mémin, E., Dumas, F., Li, L., Garreau, P. (**2023**) Toward a stochastic parameterization for oceanic deep convection. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
-- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (**2023**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems*, 15(3), e2022MS003399. doi:[10.1029/2022MS003399](https://doi.org/10.1029/2022MS003399) 
+- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., Deremble, B. (**2023**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Idealized quasi-geostrophic flow. *Journal of Advances in Modeling Earth Systems*, 15(3), e2022MS003399 -- [10.1029/2022MS003399](https://doi.org/10.1029/2022MS003399) 
 
 - Uchida, T., Balwada, D., **Jamet, Q.**, Dewar, W. K., Deremble, B., Penduff, T., Le Sommer, J. (**2023**). Cautionary tales from the mesoscale eddy transport tensor. *Ocean Modelling*, 182, 102172 -- [10.1016/j.ocemod.2023.102172](https://doi.org/10.1016/j.ocemod.2023.102172)
 
@@ -49,4 +49,4 @@ permalink: /publications/
  - **Jamet, Q.**, Huck, T., Arzel, O., Campin, J. M., de Verdière, A. C. (**2016**). Oceanic control of multidecadal variability in an idealized coupled GCM. *Climate dynamics*, 46(9-10), 3079-3095 -- [10.1007/s00382-015-2754-3](http://ocean.fsu.edu/~qjamet/share/files/Jamet_etal_CD2015.pdf)
 
 ## PhD Thesis dissertation
-**Jamet Q.**  (**2015**). North Atlantic variability in an idealized, coupled model: the Atlantic Multidecadal Oscillation  (in french). PhD, Univ. Brest. Supervised by Thierry Huck, Alain Colin de Verdière and Olivier Arzel, [PhD Thesis](http://ocean.fsu.edu/~qjamet/share/files/These_JametQ_Final.pdf)
+**Jamet Q.**  (**2015**). North Atlantic variability in an idealized, coupled model: the Atlantic Multidecadal Oscillation  (in french). PhD, Univ. Brest. Supervised by Thierry Huck, Alain Colin de Verdière and Olivier Arzel -- [PhD Thesis](http://ocean.fsu.edu/~qjamet/share/files/These_JametQ_Final.pdf)
