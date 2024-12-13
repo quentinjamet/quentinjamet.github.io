@@ -7,13 +7,11 @@ permalink: /publications/
 <a href="https://orcid.org/0000-0002-5596-0354" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5596-0354</a>
 
 
-## On-going papers
-- Deremble, B., **Jamet, Q.**, Dewar, W. K. (**In Rev.**) A Reference State Free Definition of Mixing Efficiency for Intermittent Turbulent Events. *Journal of Geophysical Research - Oceans*
-
-
-
 
 ## Peer-reviewed publications
+
+- Uchida, T., Jamet, Q., Dewar, W. K., Deremble, B., Poje, A. C., & Sun, L. (**2024**). Imprint of chaos on the ocean energy cycle from an eddying North Atlantic ensemble. *Journal of Physical Oceanography*, 54(3), 679-696. -- [10.1175/JPO-D-23-0176.1](https://doi.org/10.1175/JPO-D-23-0176.1)
+
 - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**2024**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model. *Journal of Physical Oceanography* -- [10.1175/JPO-D-23-0159.1](https://doi.org/10.1175/JPO-D-23-0159.1)
 
 - Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392 -- [/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
