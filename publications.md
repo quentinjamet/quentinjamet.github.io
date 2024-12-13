@@ -7,6 +7,23 @@ permalink: /publications/
 <a href="https://orcid.org/0000-0002-5596-0354" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5596-0354</a>
 
 
+<!---
+## On-going papers
+
+- Sevellec, F., Colin de Verdiere, A., Kolodziejczyk, N., **Jamet, Q.** (**In Rev.**) Golbal observations of eddy-mean flow interactions at the ocean surface and in the deep ocean. *Journal of Physical Oceanography*
+
+- Martinez-Moreno, J., Lique, C., Talandier, C., **Jamet, Q.**, Treguier, A.-M. (**Sub.**) Seasonal variability of kinetic energy in transitional ice-covered oceans. *Journal of Advances in Modeling Earth Systems* 
+
+-  Rojo de Anda, G., R. Parfitt, W.K. Dewar, **Q. Jamet**, T. Uchida (**Sub.**) A Description of Trends in Gulf Stream Path Retroflections Since the Late 20th Century.
+
+- S. Tajouri, W. Llovel, F. Sevellec, **Q. Jamet**, Hochet, A. (**In Prep.**) Sensitivity of the externally-forced and internal variability of sea level to fully time-varying freshwater fluxes from Greenland and rivers.
+
+- Coquereau, A., Sevellec, F., Huck, T., Hirschi, J., J.-M., **Jamet, Q.** (**In Prep**) Past, Present, and Future Variability of Atlantic Meridional Overturning Circulation in CMIP6 Ensembles.
+
+- Tissot, G., Memin, E., **Jamet, Q.** (**In Prep.*) Stochastic compressible Navier–Stokes equations under location uncertainty and its approximations for ocean modelling.
+
+-->
+
 
 ## Peer-reviewed publications
 
@@ -16,7 +33,7 @@ permalink: /publications/
 
 - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**2024**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research: Oceans*, 129(4), e2023JC020833 -- [10.1029/2023JC020833]( https://doi.org/10.1029/2023JC020833)
 
-- Uchida, T., Jamet, Q., Dewar, W. K., Deremble, B., Poje, A. C., & Sun, L. (**2024**). Imprint of chaos on the ocean energy cycle from an eddying North Atlantic ensemble. *Journal of Physical Oceanography*, 54(3), 679-696. -- [10.1175/JPO-D-23-0176.1](https://doi.org/10.1175/JPO-D-23-0176.1)
+- Uchida, T., **Jamet, Q.**, Dewar, W. K., Deremble, B., Poje, A. C., & Sun, L. (**2024**). Imprint of chaos on the ocean energy cycle from an eddying North Atlantic ensemble. *Journal of Physical Oceanography*, 54(3), 679-696. -- [10.1175/JPO-D-23-0176.1](https://doi.org/10.1175/JPO-D-23-0176.1)
 
 - Tissot, G., Mémin, E., **Jamet, Q.** (**2023**) Stochastic compressible Navier–Stokes equations under location uncertainty. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
