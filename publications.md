@@ -10,13 +10,13 @@ permalink: /publications/
 
 ## Peer-reviewed publications
 
-- Uchida, T., Jamet, Q., Dewar, W. K., Deremble, B., Poje, A. C., & Sun, L. (**2024**). Imprint of chaos on the ocean energy cycle from an eddying North Atlantic ensemble. *Journal of Physical Oceanography*, 54(3), 679-696. -- [10.1175/JPO-D-23-0176.1](https://doi.org/10.1175/JPO-D-23-0176.1)
+- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392 -- [/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
 
 - **Jamet, Q.**, Berger, A., Deremble, B., Penduff, T. (**2024**) Thermodynamical feedback of ocean-atmosphere interactions on the energy cycle of a quasi-geostrophic coupled model. *Journal of Physical Oceanography* -- [10.1175/JPO-D-23-0159.1](https://doi.org/10.1175/JPO-D-23-0159.1)
 
-- Uchida, T. **Jamet, Q.**, Poje, A. C.,  Wienders, N., Dewar, W. K., (**2024**) Wavelet-based wavenumber spectral estimate of eddy kinetic energy: Application to the North Atlantic. *Ocean Modelling*, 102392 -- [/10.1016/j.ocemod.2024.102392](https://doi.org/10.1016/j.ocemod.2024.102392)
-
 - Tedesco, P., Gula, J., Penven,P.,  Ménesguen, C., **Jamet, Q.**, Vic, C. (**2024**) Can mesoscale eddy kinetic energy sources and sinks be inferred from sea surface height in the Agulhas Current? *Journal of Geophysical Research: Oceans*, 129(4), e2023JC020833 -- [10.1029/2023JC020833]( https://doi.org/10.1029/2023JC020833)
+
+- Uchida, T., Jamet, Q., Dewar, W. K., Deremble, B., Poje, A. C., & Sun, L. (**2024**). Imprint of chaos on the ocean energy cycle from an eddying North Atlantic ensemble. *Journal of Physical Oceanography*, 54(3), 679-696. -- [10.1175/JPO-D-23-0176.1](https://doi.org/10.1175/JPO-D-23-0176.1)
 
 - Tissot, G., Mémin, E., **Jamet, Q.** (**2023**) Stochastic compressible Navier–Stokes equations under location uncertainty. *Stochastic Transport in Upper Ocean Dynamics Annual Workshop*, Springer.
 
